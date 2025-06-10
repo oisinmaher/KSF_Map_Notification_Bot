@@ -1,5 +1,5 @@
 # KSF_Map_Notification
-Subscribe to a map you would like to be notified about when it is is active on a KSF server.<br>
+Subscribe to a map you would like to recieve a discord dm notification when it is is active on a KSF server.<br>
 
 pip install -r requirements.txt<br>
 Uses discord.py and a2s<br>
